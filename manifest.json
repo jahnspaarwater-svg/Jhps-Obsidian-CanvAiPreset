@@ -1,0 +1,9 @@
+{
+	"id": "canvai-preset",
+	"name": "CanvAiPreset",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Advanced AI integration for Obsidian Canvas with preset management.",
+	"author": "jhps",
+	"isDesktopOnly": true
+}
